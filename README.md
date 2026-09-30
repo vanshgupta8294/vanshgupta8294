@@ -4,7 +4,6 @@
 
 <br>
 
-<img src="./assets/profile.jpg" alt="Vansh Gupta" width="170">
 
 Hi 👋, I'm Vansh Gupta
 
@@ -82,12 +81,6 @@ Tech: Python • Flask • Gemini AI • WebRTC
 
 My personal portfolio website showcasing my skills, projects, education, and developer profile.
 
-
-
-🖼️ Project & Profile Showcase
-
-<img src="./assets/profile-showcase.png" alt="Vansh Gupta GitHub Profile Showcase" width="100%">
-
 🎓 Education
 
 Ambalika Institute of Management and Technology (AIMT)
@@ -154,6 +147,6 @@ Class 10
 
 Thanks for visiting my profile! 🚀
 
-<img src="./assets/profile-readme-design.png" alt="Profile README Design" width="100%">
+
 
 </div>
