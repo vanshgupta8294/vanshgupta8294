@@ -34,7 +34,7 @@ I enjoy building practical projects that solve real-world problems and continuou
 
 - 🎓 **B.Tech – Information Technology**, Ambalika Institute of Management and Technology (AIMT)
 - 📅 **2023 – 2027**
-- 📊 **CGPA: 84.52%**
+- 📊 **CGPA: 8.68**
 - 🐍 Python Developer
 - 🤖 AI & GenAI Enthusiast
 - 📈 Data Analytics
