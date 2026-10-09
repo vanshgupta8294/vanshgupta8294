@@ -93,7 +93,7 @@ My personal portfolio website showcasing my skills, projects, education, and dev
 
 **Ambalika Institute of Management and Technology (AIMT)**  
 **B.Tech – Information Technology** | 2023 – 2027  
-**CGPA: 84.52%**
+**CGPA: 8.68**
 
 | Qualification | Score |
 |---|---:|
